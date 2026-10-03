@@ -1,6 +1,7 @@
 # Guide Sonarr — Profil `MULTI VF Light`
 
 Configuration Sonarr & Radarr basée sur la logique Custom Formats, s'adapte bien aux films et aux séries.
+Vous pouvez interchanger le VFQ et VFF selon votre région ou langue préféré.
 
 ## Objectif
 
