@@ -1,6 +1,6 @@
 # Guide Sonarr — Profil `MULTI VF Light`
 
-Configuration Sonarr basée sur la logique Custom Formats utilisée pour Radarr, adaptée aux séries TV.
+Configuration Sonarr & Radarr basée sur la logique Custom Formats, s'adapte bien aux films et aux séries.
 
 ## Objectif
 
