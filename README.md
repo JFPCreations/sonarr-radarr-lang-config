@@ -1,0 +1,1 @@
+# sonarr-radarr-lang-config
