@@ -14,7 +14,7 @@ Le profil vise à :
 - accepter VFI ;
 - laisser VFF neutre ;
 - donner un léger avantage au 2160p ;
-- éviter les épisodes trop petits selon la résolution ;
+- éviter les épisodes de trop grande taille selon la résolution ;
 - exclure les releases non françaises ;
 - exclure AV1 pour le moment.
 
